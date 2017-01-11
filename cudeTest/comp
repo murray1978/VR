@@ -1,0 +1,1 @@
+gcc cube.cpp -o cube -lglut -lGLU -lGL

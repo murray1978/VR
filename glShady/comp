@@ -1,0 +1,1 @@
+gcc triangles.cpp -o triangles -lglut -lGLU -lGL
